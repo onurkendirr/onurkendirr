@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 I’m currently working on Data Science<br><br>💪🏻 I'm specialised in Artificial Intelligence 🤖, Machine Learning 🦾, Deep Learning 🧠, Time-Series 🕒📈, Statistics 📊 and Big Data⭐</p>
+<p align="center">I’m currently working on Data Science<br><br>💪🏻 I'm specialized in Artificial Intelligence 🤖 Machine Learning 🦾 Data Analysis 📊 Creating Dashboards 📈 and Recommender Systems ⭐</p>
 
 ###
 
